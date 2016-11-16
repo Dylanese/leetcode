@@ -55,4 +55,3 @@ For example:
 $  ./readme.sh ../algorithms/cpp/nextPermutation/nextPermutation.cpp 
 |31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/) | [C++](./algorithms/cpp/nextPermutation/nextPermutation.cpp)|Medium|
 ```
-
